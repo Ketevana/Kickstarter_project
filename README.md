@@ -42,7 +42,7 @@ As a brief overview over the available data, the following features were observe
 •__Mean Pledge that the Project Gets__
 > The mean pledge value is around 4980$ :
 
-<p align="center"><img src="images/mean_pledge.jpg" width="800"></p>
+<p align="center"><img src="images/mean_pledge.jpg" width="400"></p>
 
 
 •__Backer Variable__
@@ -60,12 +60,12 @@ As a brief overview over the available data, the following features were observe
 •__Best Length of time to run a Campaign__
 >Kickstarter projects can last anywhere  from 1-92 days. The following chart shows the success rate and the project duration in days. The data indicates that projects with funding phase of up to 30 days have higher success rates. The duration from 45 to 92 days tend to have lower success rate to run a campaign.
 
-<p align="center"><img src="images/Success_Rates_and_Projects_Duration_in_Days.png" width="500"></p>
+<p align="center"><img src="images/Success_Rates_and_Projects_Duration_in_Days.png" width="800"></p>
 
 •__Ideal Pledge Goal__
 >We can observe in this chart the median values of the amount of money that was set as a goal for the campaign vs. how much money was actually raised, for each individual campaign category. The ideal pledge goal would be in the following range 1300$ to 3000$. 
 
-<p align="center"><img src="images/Median_Campaign_Money_Goal_and_Pledged.png" width="500"></p>
+<p align="center"><img src="images/Median_Campaign_Money_Goal_and_Pledged.png" width="700"></p>
 
 •__Success by category__
 >There are 14 categories on Kickstarter , looking at the success rate for each category, we find that Dance and Theater categories have the highest success rate, at ~69% and ~66% respectively. They are then followed by Music kickstarters with a ~62% success rate.  Although, when we look at the amount of total projects in each of these categories in the graph below, we find that Dance and Theater have a relatively low number of projects, which may explain why their success rate is on the relatively higher side. The smaller sample size is what may be causing their seeming success. 
