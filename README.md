@@ -53,14 +53,14 @@ As a brief overview over the available data, the following features were observe
 •__Duration Variable__
 >The shape of the histogram is not specifically defined, but we can note that is trimodal, having three separated classes or intervals, representing the maximum frequency of the distribution.
 
-<p align="center"><img src="images/duration.png" width="800"></p>
+<p align="center"><img src="images/duration.png" width="500"></p>
 
 ## Qualitative Analysis:
 
 •__Best Length of time to run a Campaign__
 >Kickstarter projects can last anywhere  from 1-92 days. The following chart shows the success rate and the project duration in days. The data indicates that projects with funding phase of up to 30 days have higher success rates. The duration from 45 to 92 days tend to have lower success rate to run a campaign.
 
-<p align="center"><img src="images/Success_Rates_and_Projects_Duration_in_Days.png" width="800"></p>
+<p align="center"><img src="images/Success_Rates_and_Projects_Duration_in_Days.png" width="1000"></p>
 
 •__Ideal Pledge Goal__
 >We can observe in this chart the median values of the amount of money that was set as a goal for the campaign vs. how much money was actually raised, for each individual campaign category. The ideal pledge goal would be in the following range 1300$ to 3000$. 
@@ -85,18 +85,18 @@ As a brief overview over the available data, the following features were observe
 >Best Month launch: Mar, Apr and Nov.
 Worst Month: December and May.
 
-<p align="center"><img src="images/months.jpg" width="600"></p>
+<p align="center"><img src="images/months.jpg" width="500"></p>
 
 >Best Day of the week : Mon or Thu
 Worst Day of the week is Tuesday.
 
-<p align="center"><img src="images/days.jpg" width="600"></p>
+<p align="center"><img src="images/days.jpg" width="500"></p>
 
 >Best Hours : 3-8 am and 3-6pm
 Worst Hours: 9-12am
 
 
-<p align="center"><img src="images/hours.jpg" width="600"></p>
+<p align="center"><img src="images/hours.jpg" width="500"></p>
 
 •__Conclusions:__
 
