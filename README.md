@@ -42,7 +42,7 @@ As a brief overview over the available data, the following features were observe
 •__Mean Pledge that the Project Gets__
 > The mean pledge value is around 4980$ :
 
-<p align="center"><img src="images/mean_pledge.png" width="800"></p>
+<p align="center"><img src="images/mean_pledge.jpg" width="800"></p>
 
 
 •__Backer Variable__
