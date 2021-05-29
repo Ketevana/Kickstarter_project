@@ -46,20 +46,16 @@ As a brief overview over the available data, the following features were observe
 
 
 •__Backer Variable__
-> Backer variable doesn't have a normal distribution. The histogram shows that almost all the results are concentrated between zero and 10k, doesn’t reveal a symmetric bell curve characteristic of a normal distribution. This means that the data is skewed, and there is a degree of distortion from the symmetrical bell curve, mean, mode and median are not matching. 
+> Backer variable doesn't have a normal distribution. The histogram shows that almost all the results are concentrated between zero and 20k, doesn’t reveal a symmetric bell curve characteristic of a normal distribution. This means that the data is skewed, and there is a degree of distortion from the symmetrical bell curve, mean, mode and median are not matching. It is right-skewed, where mean is above median.
 
 <p align="center"><img src="images/download.png" width="500"></p>
 
 •__Duration Variable__
 >The shape of the histogram is not specifically defined, but we can note that is trimodal, having three separated classes or intervals, representing the maximum frequency of the distribution.
->If we look at the  box plot, we can see that the median is not centred in the boxplot and is not coincident with the mean. The boxplot is left-skewed which indicates that the data doesn't follow a normal distribution. Outliers are also easily identified representing a bigger number on the right side of the boxplot, in comparison to the left side.
 
 <p align="center"><img src="images/duration.png" width="800"></p>
 
 ## Qualitative Analysis:
-Looking at the histogram of the project status, we can see, that we have 5 different status (successful, failed, live, canceled and suspended). From this point the analysis will be focus on the successful and failed projects.
-
-<p align="center"><img src="images/Project_Status.png" width="500"></p>
 
 •__Best Length of time to run a Campaign__
 >Kickstarter projects can last anywhere  from 1-92 days. The following chart shows the success rate and the project duration in days. The data indicates that projects with funding phase of up to 30 days have higher success rates. The duration from 45 to 92 days tend to have lower success rate to run a campaign.
@@ -89,20 +85,20 @@ Looking at the histogram of the project status, we can see, that we have 5 diffe
 >Best Month launch: Mar, Apr and Nov.
 Worst Month: December and May.
 
-<p align="center"><img src="images/months.png" width="600"></p>
+<p align="center"><img src="images/months.jpg" width="600"></p>
 
 >Best Day of the week : Mon or Thu
 Worst Day of the week is Tuesday.
 
-<p align="center"><img src="images/days.png" width="600"></p>
+<p align="center"><img src="images/days.jpg" width="600"></p>
 
 >Best Hours : 3-8 am and 3-6pm
 Worst Hours: 9-12am
 
 
-<p align="center"><img src="images/hours.png" width="600"></p>
+<p align="center"><img src="images/hours.jpg" width="600"></p>
 
->Conclusions:
+•__Conclusions:__
 
 >Duration set less than 30 days has the highest probability having the campaign successful. Better not set the duration from 45 to 92 days. Number of days live does not seem to very significantly affect funding. Longer project durations are mostly associated with higher goals, but not related to success.
 
